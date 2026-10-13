@@ -41,8 +41,8 @@ Open http://localhost:5174 in your browser.
 
 1. Enter a client name, website URL, and optionally an industry
 2. Click "Continue" to start the crawl
-3. Watch the 6-step progress tracker update in real-time
-4. View the extracted results: brand colors, logo, metadata, products, social links, contact info
+3. Watch the 6-step progress tracker update in real-time with loading screen
+4. View the extracted results: brand colours, logo, metadata, products, social links, contact info
 
 ## API Endpoints
 
